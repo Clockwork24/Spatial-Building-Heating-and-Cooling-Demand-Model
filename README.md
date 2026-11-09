@@ -132,7 +132,7 @@ Only minimal fixes were applied; apart from the roof area the model logic is unc
 
 ## 8. Licence and data attribution
 
-Code: [MIT licence](LICENSE), © 2025 Ludwig Irrgang.
+Code: [MIT licence](LICENSE), © 2025 Hannah Uhrmann.
 
 When publishing results, cite the data sources: © OpenStreetMap contributors (ODbL); © Bayerische Vermessungsverwaltung (LoD2, CC BY 4.0); © Statistisches Bundesamt (Destatis), Zensus 2022; Deutscher Wetterdienst (TRY).
 
