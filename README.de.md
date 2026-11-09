@@ -132,7 +132,7 @@ Es wurden nur minimale Korrekturen vorgenommen; abgesehen von der Dachfläche is
 
 ## 8. Lizenz und Datenquellen
 
-Code: [MIT-Lizenz](LICENSE), © 2025 Ludwig Irrgang.
+Code: [MIT-Lizenz](LICENSE), © 2025 Hannah Uhrmann.
 
 Bei Veröffentlichung von Ergebnissen die Datenquellen angeben: © OpenStreetMap-Mitwirkende (ODbL); © Bayerische Vermessungsverwaltung (LoD2, CC BY 4.0); © Statistisches Bundesamt (Destatis), Zensus 2022; Deutscher Wetterdienst (TRY).
 
