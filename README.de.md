@@ -14,7 +14,7 @@ Ein Python-Werkzeug mit grafischer Oberfläche, das den **stündlichen Endenergi
 
 Die Ergebnisse werden als Excel-Datei (Gebäudedaten, Karte, Lastgang) und als CSV-Dateien mit dem stündlichen Heiz- und Kühlbedarf (8760 h) des gesamten Gebiets ausgegeben.
 
-> Das Modell wurde 2024–2025 im Rahmen einer studentischen Abschlussarbeit entwickelt, die von Ludwig Irrgang betreut wurde; er pflegt dieses Repository.
+> Das Modell wurde 2024–2025 im Rahmen einer studentischen Abschlussarbeit von Bernhard Sommer entwickelt, die von Hannag Uhrmann und Ludwig Irrgang betreut wurde; Hannah Uhrmann pflegt dieses Repository.
 
 ---
 
@@ -132,7 +132,7 @@ Es wurden nur minimale Korrekturen vorgenommen; abgesehen von der Dachfläche is
 
 ## 8. Lizenz und Datenquellen
 
-Code: [MIT-Lizenz](LICENSE), © 2025 Hannah Uhrmann.
+Code: [MIT-Lizenz](LICENSE), © 2025 Hannah Uhrmann, Ludwig Irrgang und Bernhard Sommer.
 
 Bei Veröffentlichung von Ergebnissen die Datenquellen angeben: © OpenStreetMap-Mitwirkende (ODbL); © Bayerische Vermessungsverwaltung (LoD2, CC BY 4.0); © Statistisches Bundesamt (Destatis), Zensus 2022; Deutscher Wetterdienst (TRY).
 
