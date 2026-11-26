@@ -14,7 +14,7 @@ A Python tool with a graphical user interface that estimates the **hourly heatin
 
 Results are exported as an Excel workbook (per-building data, map, load profile) and as CSV files with the hourly heating and cooling demand (8760 h) of the whole area.
 
-> The model was developed in 2024–2025 as part of a student thesis supervised by Ludwig Irrgang, who maintains this repository.
+> The model was developed in 2024–2025 as part of a student thesis by Bernhard Sommer supervised by Hannah Uhrmann and Ludwig Irrgang, who maintains this repository.
 
 ---
 
@@ -132,7 +132,7 @@ Only minimal fixes were applied; apart from the roof area the model logic is unc
 
 ## 8. Licence and data attribution
 
-Code: [MIT licence](LICENSE), © 2025 Hannah Uhrmann.
+Code: [MIT licence](LICENSE), © 2025 Hannah Uhrmann and Ludwig Irrgang
 
 When publishing results, cite the data sources: © OpenStreetMap contributors (ODbL); © Bayerische Vermessungsverwaltung (LoD2, CC BY 4.0); © Statistisches Bundesamt (Destatis), Zensus 2022; Deutscher Wetterdienst (TRY).
 
